@@ -1,0 +1,19 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.margin{
+    margin-top: 10%;
+    margin-bottom: 10%;
+}
+h1{
+    margin-left: 28%;
+    padding-bottom: 5%;
+}
+#map{
+    margin-left: 45%;
+    margin-bottom: 3%;
+}
+#map_h{
+    margin-left: 40%;
+}

@@ -1,0 +1,11 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.margin{
+    margin-top: 10%;
+}
+#head{
+    margin-left: 30%;
+    padding-bottom: 3%;
+}

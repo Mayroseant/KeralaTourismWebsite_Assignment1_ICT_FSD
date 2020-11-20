@@ -1,0 +1,52 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.carousel_color{
+    color: blue;
+}
+h1{
+    margin-left: 40%;
+    margin-top: 50%;
+    margin-bottom: 5%;
+}
+
+#about_us{
+    margin-top: 5%;
+    margin-bottom: 5%;
+}
+
+.social {
+    list-style: none;
+    margin: 0;
+    padding: 0;
+    text-align: center;
+    margin-top: -15px
+}
+
+.social li {
+    list-style: none;
+    margin: 0 10px;
+    display: inline-block
+}
+
+.social li a {
+    display: block;
+    text-align: center;
+    width: 80px;
+    height: 80px;
+    padding: 20px;
+    border-top-right-radius: 50px;
+    border-top-left-radius: 50px;
+    border-bottom-right-radius: 50px;
+    border-bottom-left-radius: 50px;
+    color: #ffffff;
+    cursor: pointer;
+    line-height: 40px;
+    font-size: 30px;
+}
+
+#contact_us{
+    margin-top: 5%;
+    margin-bottom: 5%;
+}
