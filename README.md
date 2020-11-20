@@ -6,7 +6,7 @@
   <li>Log In Page (login.html)</li>
   <li>Sign Up Page (signup.html)</li>
   <li>14 Individual Districts of Kerala Page (kasargod.html, wayanad.html, kozhikode.html, malappuram.html, palakkad.html,....)</li>
-  <li>Welcome Page after signing uo(welcome.html)</li>
+  <li>Welcome Page after signing up(welcome.html)</li>
 </ul>
 <ul>
   <b>The repository also contains:</b>
